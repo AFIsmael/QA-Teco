@@ -1,0 +1,1 @@
+Este archivo de prueba fue creado en la rama "nueva-rama" sirve como prueba del ejercicio N°10 GIT y GitHub QA Manual Teco-Alkemy
